@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FFFAF3;
+}
+
+h1{
+    font-family: 'Yeseva One';
+}
+
+nav{
+    padding-top: 43px;
+    padding-left: 176px;
+}
+
+.container{
+    max-width: 1440px;
+    margin: auto;
+}
+
+.container a{
+    text-decoration: none;
+}
+
+nav a{
+    color: #000000;
+}
+
+nav .logo{
+    width: 38.64px;
+    height: 59px;
+    top: 43px;
+    vertical-align: middle;
+}
+
+nav .home{
+    color: #C08D5D;
+    margin-right: 53px;
+    margin-left: 83.36px;
+}
+
+nav .products{
+    margin-left: 54.5px;
+}
+
+
+.bottomline{
+    border-bottom: 1px solid #C08D5D;
+    width: 470px;
+    padding-top: 42.5px;
+    margin-bottom: 122.5px;
+    margin-left: 179.97px;
+}
+
+.grape{
+    float: right;
+    width: 660px;
+    height: 878px;
+    margin-top: -265px;
+}
+
+h1{
+    color: #3F4042;
+    font-size: 70px;
+    margin-left: 176px;
+    width: 355px;
+    letter-spacing: 0.06em;
+}
+
+h1 span{
+    font-size: 50px;
+    width: 130px;
+}
+
+.logoh1{
+    width: 45.21px;
+    height: 69.04px;
+}
+
+.waveline{
+    width: 165px;
+    margin-left: 184px;
+    margin-top: 45px;
+    margin-bottom: 25.97px;
+   
+}
+
+.texth1{
+    padding-left: 180px;
+    padding-bottom: 75px;
+    letter-spacing: 0.06em;
+    line-height: 27px;
+}
+
+.button{
+    color: #3F4042;
+    box-sizing: border-box;
+    padding: 17px 11px 17px 15px;
+    margin-left: 180px;
+    border: 2px solid #C08D5D;
+    font-size: 20px;
+    letter-spacing: 0.06em;
+}
+
+.button::after{
+    display: inline-block;
+    background-color: #C08D5D;
+    content: url('../lesson4.hometask/images/vector2.svg');
+    width: 59px;
+    height: 59px;
+    text-align: center;
+    line-height: 59px;
+    border: 1px solid #C08D5D;
+    margin-left: 11px;
+}
+
+.mouse{
+    margin-top: 801.6px;
+    margin-left: 703px;
+}
+
+
+
